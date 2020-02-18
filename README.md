@@ -1,4 +1,5 @@
-<img src="resources/kotlinconflogo.png" width="400">
+<img src="resources/kotlinconflogo.png" width="500">
+
 # KotlinConf'19 Global Medellín
 Repo con los slides y links del KotlinConf'19
 
