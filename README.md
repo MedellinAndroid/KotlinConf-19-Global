@@ -25,7 +25,7 @@ Repo con los slides y links del KotlinConf'19
 	[Video](https://youtu.be/gzxYo367qag?t=10333) 
 
 - Juan Gabriel Gutierrez- Yo Tengo el Flow:
-	[Slides]()
+	[Slides](https://docs.google.com/presentation/d/1Ha7ADbgEf1YeOzvjqYIrrYQb8SHc1qa1skb0ninKQLg/edit#slide=id.p)
 	[Video](https://youtu.be/gzxYo367qag?t=11815) 
 
 - Alejandro Gomez - Java 19 Vs Kotlin:
