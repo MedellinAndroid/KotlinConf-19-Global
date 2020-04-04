@@ -31,3 +31,9 @@ Repo con los slides y links del KotlinConf'19
 - Alejandro Gomez - Java 19 Vs Kotlin:
 	- [Slides](presentations/Alejandro%20Gomez%20-%20Java%2019%20Vs%20Kotlin.pdf) 
 	- [Video](https://youtu.be/gzxYo367qag?t=14551) 
+	
+# Speakers
+
+| [<img src="https://avatars3.githubusercontent.com/iyubinest" width="80px;"/><br /><sub><b>Cristian Gomez</b></sub>](https://github.com/iyubinest)<br /> | [<img src="https://avatars3.githubusercontent.com/lauramdelarosa" width="80px;"/><br /><sub><b>Laura de la Rosa</b></sub>](https://github.com/lauramdelarosa)<br /> | [<img src="https://avatars3.githubusercontent.com/cdmunoz" width="80px;"/><br /><sub><b>Carlos Daniel Muñoz</b></sub>](https://github.com/cdmunoz)<br /> | [<img src="https://avatars3.githubusercontent.com/alejandro-rios" width="80px;"/><br /><sub><b>Alejandro Rios</b></sub>](https://github.com/alejandro-rios)<br /> |
+|:-:|:-:|:-:|---|
+| [<img src="https://avatars3.githubusercontent.com/andresuarezz26" width="80px;"/><br /><sub><b>Gerardo Suarez</b></sub>](https://github.com/andresuarezz26)<br /> | [<img src="https://avatars3.githubusercontent.com/llanox" width="80px;"/><br /><sub><b>Juan Gabriel Gutierrez</b></sub>](https://github.com/llanox)<br /> | [<img src="https://avatars3.githubusercontent.com/aldajo92" width="80px;"/><br /><sub><b>Alejandro Gomez</b></sub>](https://github.com/aldajo92)<br /> |  |
